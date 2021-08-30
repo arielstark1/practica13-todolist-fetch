@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
 
-  const [linkUrl] = useState("https://assets.breatheco.de/apis/fake/todos/user/Lucas-VY")
+  const [linkUrl] = useState("https://assets.breatheco.de/apis/fake/todos/user/arielstark1")
   const [assignment, setAssignment] = useState([]);
 
   let characterRef = useRef(null);
